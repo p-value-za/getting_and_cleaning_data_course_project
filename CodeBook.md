@@ -2,6 +2,7 @@
 title: "Code book for the 'tidy_data_summary' tidy data set"
 output:
     html_document:
+        github_docucemt:
         toc: true
 ---
 
