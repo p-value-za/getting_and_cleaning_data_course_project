@@ -249,7 +249,7 @@ activity
 </td>
 <td style="text-align:left;">
 Identifies the activity performed.<br>Value Labels:<br>1. WALKING<br>2.
-WALKING\_UPSTAIRS<br>3. WALKING\_DOWNSTAIRS<br>4. SITTING<br>5.
+WALKING_UPSTAIRS<br>3. WALKING_DOWNSTAIRS<br>4. SITTING<br>5.
 STANDING<br>6. LAYING
 </td>
 <td style="text-align:left;">
@@ -291,7 +291,7 @@ the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -309,7 +309,7 @@ the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -327,7 +327,7 @@ the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -345,7 +345,7 @@ accelaration signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -363,7 +363,7 @@ accelaration signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -381,7 +381,7 @@ accelaration signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -399,7 +399,7 @@ on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -417,7 +417,7 @@ on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -435,7 +435,7 @@ on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -453,7 +453,7 @@ accelaration signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -471,7 +471,7 @@ accelaration signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -489,7 +489,7 @@ accelaration signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -507,7 +507,7 @@ signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -525,7 +525,7 @@ signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -543,7 +543,7 @@ signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -561,7 +561,7 @@ accelaration jerk signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -579,7 +579,7 @@ accelaration jerk signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -597,7 +597,7 @@ accelaration jerk signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -615,7 +615,7 @@ signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -633,7 +633,7 @@ signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -651,7 +651,7 @@ signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -669,7 +669,7 @@ velocity signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -687,7 +687,7 @@ velocity signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -705,7 +705,7 @@ velocity signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -723,7 +723,7 @@ signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -741,7 +741,7 @@ signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -759,7 +759,7 @@ signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -777,7 +777,7 @@ velocity jerk signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -795,7 +795,7 @@ velocity jerk signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -813,7 +813,7 @@ velocity jerk signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -831,7 +831,7 @@ magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -849,7 +849,7 @@ accelaration signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -867,7 +867,7 @@ magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -885,7 +885,7 @@ accelaration signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -903,7 +903,7 @@ signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -921,7 +921,7 @@ accelaration jerk signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -939,7 +939,7 @@ signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -957,7 +957,7 @@ velocity signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -975,7 +975,7 @@ signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -993,7 +993,7 @@ velocity jerk signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1011,7 +1011,7 @@ signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1029,7 +1029,7 @@ signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1047,7 +1047,7 @@ signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1065,7 +1065,7 @@ accelaration signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1083,7 +1083,7 @@ accelaration signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1101,7 +1101,7 @@ accelaration signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1119,7 +1119,7 @@ signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1137,7 +1137,7 @@ signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1155,7 +1155,7 @@ signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1173,7 +1173,7 @@ accelaration jerk signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1191,7 +1191,7 @@ accelaration jerk signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1209,7 +1209,7 @@ accelaration jerk signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1227,7 +1227,7 @@ signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1245,7 +1245,7 @@ signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1263,7 +1263,7 @@ signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1281,7 +1281,7 @@ angular velocity signals on the X axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1299,7 +1299,7 @@ angular velocity signals on the Y axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1317,7 +1317,7 @@ angular velocity signals on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1335,7 +1335,7 @@ signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1353,7 +1353,7 @@ accelaration signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1371,7 +1371,7 @@ signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1389,7 +1389,7 @@ accelaration jerk signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1407,7 +1407,7 @@ signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1425,7 +1425,7 @@ angular velocity signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1443,7 +1443,7 @@ jerk signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 <tr>
@@ -1461,7 +1461,7 @@ angular velocity jerk signals magnitude on the Z axis.
 numeric
 </td>
 <td style="text-align:left;">
-\[-1, 1\]
+[-1, 1]
 </td>
 </tr>
 </tbody>
