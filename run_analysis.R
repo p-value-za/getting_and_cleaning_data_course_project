@@ -121,3 +121,9 @@ names(tidy_data_summary) <- tidy_data_summary_names
 
 # Create a text file with the data set
 write.table(tidy_data_summary, "tidy_data_summary.txt", row.names = FALSE)
+
+###############################################################################
+#                       Produce the Code Book                                 #
+###############################################################################
+source("CodeBook.Rmd")
+knitr::knit("CodeBook.Rmd")
