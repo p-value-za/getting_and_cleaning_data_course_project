@@ -72,8 +72,9 @@ To read the tidy data set into R, please copy the following in to the R
 console:
 
 ``` r
-address <- "https://github.com/p-value-za/getting_and_cleaning_data_course_project/blob/master/tidy_data_summary.txt"
-data <- read.table(url(address, header = TRUE))
+address <- "https://coursera-assessments.s3.amazonaws.com/assessments/1616335849931/982c86ea-01be-42d4-b493-65e1a5a69faa/tidy_data_summary.txt"
+data <- read.table(url(address), header = TRUE)
+View(data)
 ```
 
 # Detailed description of the scripts and the process they use to clean the data and produce the tidy data set
